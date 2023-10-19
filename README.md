@@ -13,54 +13,10 @@ CompeteNow offers a mobile platform for accessing a wide range of contest data, 
 - **Long Contests:** The long contests are contests which are having duration > 1 day or 24hrs. Furtuhur divided in ongoing & upcoming.
 - **Short Contests:** The short contests are contests which are having duration <= 1 day or 24hrs. Furtuhur divided in ongoing & upcoming.
 
-## Installation and Setup
 
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/yourusername/competenow.git
-   cd competenow
-   
 ## Technologies Used
 
 - **React:** The frontend of CompeteNow is built using React, a popular JavaScript library for building user interfaces.
-
-## Installation and Setup
-
-1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/yourusername/competenow.git
-   cd competenow
-   ```
-
-2. Install dependencies for the backend:
-
-   ```shell
-   cd backend
-   npm install
-   ```
-
-3. Start the backend server:
-
-   ```shell
-   npm start
-   ```
-
-4. Install dependencies for the React frontend:
-
-   ```shell
-   cd ../frontend
-   npm install
-   ```
-
-5. Start the React app:
-
-   ```shell
-   npm start
-   ```
-
-6. Access CompeteNow in your web browser at `http://localhost:3000`.
 
 ## API Endpoints
 
