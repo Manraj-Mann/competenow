@@ -13,6 +13,7 @@ CompeteNow offers a mobile platform for accessing a wide range of contest data, 
 - **API for Contest Data:** The API allows users to retrieve contest data, including programming contest details, start and end times, hosting platforms, and more.
 - **Long Contests:** The long contests are contests which are having duration > 1 day or 24hrs. Furtuhur divided in ongoing & upcoming.
 - **Short Contests:** The short contests are contests which are having duration <= 1 day or 24hrs. Furtuhur divided in ongoing & upcoming.
+- **Google Calender:** Add you contest to calendar for remainder.
 
 
 ## Technologies Used
