@@ -1,6 +1,8 @@
 # CompeteNow - React Native App with Firebase and Flask API
 
-CompeteNow is a mobile app built using React Native that provides access to contest data through an API powered by Flask and backed by Firebase Realtime Database. This repository contains the source code for the React Native app, Flask API, and the Firebase Realtime Database setup.
+CompeteNow is a mobile app built using React Native that provides access to contest data through an API powered by Flask and backed by Firebase Realtime Database. This repository contains the source code for the React Native app, Flask API, and the Firebase Realtime Database setup. 
+
+Download and use the application : https://drive.google.com/file/d/1oJKAwbmukUz-_MkWZh7qC55gGAaPZwdv/view?usp=share_link
 
 ![Preview](worknew.png)
 ## About
